@@ -34,7 +34,7 @@
 <p>&emsp;&emsp; 🏠 Shanxi pingyao </p>
 <p>&emsp;&emsp; ✨ 2000 185cm 🏹️ </p>
 <p>&emsp;&emsp;🏀  Prefering all kinds of sports </p>
-<p>&emsp;&emsp;🎤 Please let me sing 《Fridnds》for you </p>
+<p>&emsp;&emsp;🎤 Please let me sing 《如果有一天我变得很有钱》for you </p>
 <p><strong>&emsp;&emsp;🌞 Forever young, forever in tears</strong></p>
 </td></tr>
 
