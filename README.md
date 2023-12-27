@@ -30,11 +30,7 @@
 
 
 <p>&emsp;&emsp;🙋 Hello everyone，this is 小程同学</p>
-<p>&emsp;&emsp; 📖 I am a postgraduate student</p>
-<p>&emsp;&emsp; 🏠 Shanxi pingyao </p>
-<p>&emsp;&emsp; ✨ 2000 185cm 🏹️ </p>
 <p>&emsp;&emsp;🏀  Prefering all kinds of sports </p>
-<p>&emsp;&emsp;🎤 Please let me sing 《如果有一天我变得很有钱》for you </p>
 <p><strong>&emsp;&emsp;🌞 Forever young, forever in tears</strong></p>
 </td></tr>
 
@@ -55,10 +51,7 @@
   
 </td>
 </tr>
-
 <tr><td>
-
-
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenQiang404&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WenQiang404&layout=compact)](https://github.com/WenQiang404/github-readme-stats)
